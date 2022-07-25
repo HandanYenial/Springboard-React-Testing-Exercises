@@ -1,6 +1,6 @@
-#React Testing Exercises#
+# React Testing Exercises
 
-##Carousel Component##
+## Carousel Component
 
 **Part 1:** Demo the App & Read the Code
 Start the app and play around with the image carousel. Sketch out the component hierarchy and make sure you understand what’s going on. Which components have state, and how does that state get changed?
